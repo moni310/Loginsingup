@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "name": "moni",
+      "password": "Mo@12",
+      "profile": {
+        "descraption": "wertyui",
+        "date_of_birth": "sdf",
+        "hobies": "drty",
+        "gender": "rty"
+      }
+    },
+    {
+      "name": "uytre",
+      "password": "An@12",
+      "profile": {
+        "description": "uytr",
+        "dob": "fd",
+        "hobbies": "8765",
+        "gender": "654"
+      }
+    },
+    {
+      "name": "savita",
+      "password": "Sa@12",
+      "profile": {
+        "description": "ertyu",
+        "dob": "5/7/2002",
+        "hobbies": "rety",
+        "gender": "dfgh"
+      }
+    },
+    {
+      "name": "archna",
+      "password": "Aa@12",
+      "profile": {
+        "description": "werty",
+        "dob": "ert",
+        "hobbies": "dfg",
+        "gender": "f"
+      }
+    },
+    {
+      "name": "Sikha",
+      "password": "Si@12",
+      "profile": {
+        "description": "i like dance",
+        "dob": "4/6/2002",
+        "hobbies": "singing",
+        "gender": "female"
+      }
+    }
+  ]
+}
